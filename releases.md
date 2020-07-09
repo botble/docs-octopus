@@ -4,6 +4,11 @@
 - [Octopus 1.1](#version_1_1)
 - [Octopus 1.0](#version_1_0)
 
+## Octopus 1.2.1
+### 09-07-2020
+
+- Add support DigitalOcean Spaces
+
 <a name="version_1_2"></a>
 ### 03-07-2020
 
