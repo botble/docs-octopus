@@ -1,10 +1,22 @@
 # Release Notes
 
+- [Octopus 1.5](#version_1_5)
 - [Octopus 1.4](#version_1_4)
 - [Octopus 1.3](#version_1_3)
 - [Octopus 1.2](#version_1_2)
 - [Octopus 1.1](#version_1_1)
 - [Octopus 1.0](#version_1_0)
+
+## Octopus 1.5
+### Oct 14, 2020
+- Fix multi-language with Ajax.
+- Fix views count.
+- Update contact form with Ajax.
+- Update email encryption settings.
+- Improve Recaptcha: add an option to hide v3 badge.
+- Improve export posts to csv, excel.
+- Improve theme UI.
+- Refactor code.
 
 ## Octopus 1.4
 ### 15-09-2020
